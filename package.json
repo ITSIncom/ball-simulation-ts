@@ -1,0 +1,36 @@
+{
+  "name": "registro-elettronico-ts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ITSIncom/registro-elettronico-ts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITSIncom/registro-elettronico-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ITSIncom/registro-elettronico-ts/issues"
+  },
+  "author": {
+    "name": "Matteo Bilotta",
+    "email": "matteo.bilotta@itsincom.it",
+    "url": "https://www.byloth.dev/"
+  },
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --build",
+    "lint": "eslint .",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@byloth/eslint-config-typescript": "^3.2.2",
+    "@eslint/compat": "^2.0.1",
+    "@types/node": "^22.19.7",
+    "husky": "^9.1.7",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  },
+  "private": true
+}
