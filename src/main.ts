@@ -1,6 +1,11 @@
+import { Simulation } from "./simulation";
+
 function main(): void
 {
-    console.log("Hello, world!");
+    const simulation = new Simulation();
+
+    simulation.initialize();
+    simulation.start();
 }
 
 main();

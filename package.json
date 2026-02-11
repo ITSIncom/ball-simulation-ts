@@ -1,13 +1,13 @@
 {
-  "name": "registro-elettronico-ts",
+  "name": "ball-simulation-ts",
   "version": "1.0.0",
-  "homepage": "https://github.com/ITSIncom/registro-elettronico-ts#readme",
+  "homepage": "https://github.com/ITSIncom/ball-simulation-ts#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ITSIncom/registro-elettronico-ts.git"
+    "url": "git+https://github.com/ITSIncom/ball-simulation-ts.git"
   },
   "bugs": {
-    "url": "https://github.com/ITSIncom/registro-elettronico-ts/issues"
+    "url": "https://github.com/ITSIncom/ball-simulation-ts/issues"
   },
   "author": {
     "name": "Matteo Bilotta",
